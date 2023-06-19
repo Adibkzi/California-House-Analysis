@@ -1,4 +1,4 @@
-# 🏡 California House Price Prediction 📈
+# 🏡 California House Analysis Prediction 📈
 
 I am excited to share with you the incredible journey of my California House Price Prediction project! <br><br>
 🌟 In this data science endeavor, my aimed  was to estimate house prices in California accurately. Let's break down what I did:
@@ -8,7 +8,7 @@ My project focused on leveraging advanced data analysis techniques to provide ac
 
 # Business Problems:
 I recognized two key business problems in the California housing market:<br><br>
-1️⃣ Price Estimation: Accurately estimating house prices amidst market volatility and diverse housing options is challenging for individuals.<br><br>
+1️⃣ Ocean Factor: Accurately estimating house prices amidst market volatility and diverse housing options when a house doesn't have an ocean view  is challenging for individuals.<br><br>
 2️⃣ Market Analysis: Real estate professionals, investors, and policymakers require in-depth market analysis to identify trends, patterns, and factors driving prices in different districts of California.
 
 # Data:
