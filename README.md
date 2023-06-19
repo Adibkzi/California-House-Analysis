@@ -1,7 +1,7 @@
 # 🏡 California House Price Prediction 📈
 
 I am excited to share with you the incredible journey of my California House Price Prediction project! <br><br>
-🌟 In this data science endeavor, my aimed to develop a robust predictive model to estimate house prices in California accurately. Let's break down what I did:
+🌟 In this data science endeavor, my aimed  was to estimate house prices in California accurately. Let's break down what I did:
 
 # Project Overview:
 My project focused on leveraging advanced data analysis techniques to provide accurate price estimations for potential home buyers and sellers in California. By exploring a comprehensive dataset and applying cutting-edge methodologies, I aimed to address the challenges faced in the dynamic housing market.
