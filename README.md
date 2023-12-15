@@ -12,7 +12,7 @@ I recognized two key business problems in the California housing market:<br><br>
 2️⃣ Market Analysis: Real estate professionals, investors, and policymakers require in-depth market analysis to identify trends, patterns, and factors driving prices in different districts of California.
 
 # Data:
-To tackle these challenges, my collected a rich and extensive dataset on California housing prices. This dataset encompassed various factors influencing house prices, such as district locations, average room numbers, population figures, and median incomes. With this comprehensive data, I embarked on my analysis journey.
+To tackle these challenges, I collected a rich and extensive dataset on California housing prices. This dataset encompassed various factors influencing house prices, such as district locations, average room numbers, population figures, and median incomes. With this comprehensive data, I embarked on my analysis journey.
 
 # Methods:
 My data science approach involved several crucial steps:<br><br>
